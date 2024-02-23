@@ -37,10 +37,11 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
 <br><br>
+
 - Whites are not the highest paid in any industry.
 - In nine industries, "Asian or Asian Americans" or "Middle Eastern or Northern African" are the highest paid.
 - Native Americans are the highest paid in the utilities and telecommunications industry while they are the lowest in many other industries.
-- The is parity among races in the government and education categories, probably due to strong adherance to equal opportunity rules.
+- The salaires for all races is nearly equal in the government and education categories, probably due to strong adherance to equal opportunity rules.
 
 ### For College Educated
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/dc161200-d7cf-4e8a-b847-710e67973b66">
@@ -50,8 +51,15 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/b2e03a7b-16c9-41ae-9d7f-5c3eb371cd38">
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/6153491d-27d6-4870-8871-d4048cc3fd28">
+<br><br>
 
+- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital", retail, and "transport or logistic" industries.
+- The salaires for all races is nearly equal again in the government and education industries, probably due to strong adherance to equal opportunity rules.
 
+# Conclusion
+Females and non-binaries earn less than males in all industries; and having a higher education does not change this. 
+<br>
+Whites do not earn more than any other race in any industry. Government jobs are the best industry to find equal pay among males and females but not non-binaries. Government and education jobs are the best industries to find equal pay among races.
 
 
 
