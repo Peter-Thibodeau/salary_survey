@@ -1,5 +1,5 @@
 # Introduction
-This is a practice case study. Using salary data I will intend to find the industries that are most welcoming to minorities by answering the following quesitons:
+This is a practice case study. I intend to find the industries that are most welcoming to minorities by answering the following quesitons:
 - What are the average salaires for each gender by industry
 - What are the average salaires for each gender with a college education by industry 
 - What are the average salaires for each race by industry
@@ -14,24 +14,24 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 
 # Data Exploration
 ## Descriptions of Variables:
-- Timestamp: a unique string automatically assigned to the record, not relevant to the analysis
-- age: a string of seven age brackets the user can choose from
+- Timestamp: a unique string automatically assigned to each new record
+- age: seven strings that the user can choose from for an age bracket
 - industry: a string entered by the user
 - job_title: a string entered by the user
-- job_title_info: a string entered by the user to add notes about their job title
-- annual_salary: a numeric for currency, no decimal places
-- additional: a string entered by the user for information about the user's annual salary
-- currency: a string three characters long with seven different values the user can choose from
-- other_info: a string entered by the user for information about the currency they selected
+- job_title_info: a string entered by the user
+- annual_salary: a numeral entered by the user, dollar sign and comma added automatically, no decimals
+- additional: a string entered by the user for including a note about annaul_salary
+- currency: seventeen strings that the user can choose from to 
+- other_info: a string entered by the user
 - income_context: a string entered by the user
 - country: a string entered by the user
 - state: a string entered by the user
 - city: a string entered by the user
-- years_exp: a string of eight years brackets the user can choose from
-- years_exp_in_field: a string of eight years brackets the user can choose from
-- education: a string of six levels of education the user can choose from
-- gender: a string of five genders the user can choose from
-- race: a string of fourty eight races the user can choose from
+- years_exp: eight strings that the user can choose from
+- years_exp_in_field: eight strings that the user can choose from
+- education: six strings that the user can choose from
+- gender: five strings that the user can choose from
+- race: forty eight strings that the user can choose from
 
 ## Nulls and NA's For Each Variable:
 Variable	Nulls
