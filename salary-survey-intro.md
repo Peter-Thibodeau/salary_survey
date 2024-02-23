@@ -1,15 +1,15 @@
 # Introduction
-This is a practice case study. I intend to find the industries that are most welcoming to minorities by answering the following quesitons:
-- What are the average salaires for each gender by industry
-- What are the average salaires for each gender with a college education by industry 
-- What are the average salaires for each race by industry
-- What are the average salaires for each race with a college education by industry 
+This is a practice case study. I intend to find the industries that are most welcoming to minorities by answering the following questions:
+- What are the average salaries for each gender by industry
+- What are the average salaries for each gender with a college education by industry 
+- What are the average salaries for each race by industry
+- What are the average salaries for each race with a college education by industry 
 
 
 # The Data
-I am using data from a web app on the askamanager.org website (https://www.askamanager.org/ 2022/04/how-much-money-do-you-make-5.html). This form allows the user to enter their demographic and salary info anonymously and then see a table comparing their data to other users. The table contains 28,015 records allowing an analysis of salaries based on industry, years of experience, and personal demographics.
+I am using data from a web app on the askamanager.org website (https://www.askamanager.org/ 2022/04/how-much-money-do-you-make-5.html). This form allows users to anonymously enter their demographic and salary info and then see a table comparing their data to other users. The table contains 28,015 records, allowing an analysis of salaries based on industry, years of experience, and personal demographics.
 
-The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey#gid=1625408792. I downloaded it as a .csv file.
+The data is hosted on Google Sheets at: https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey#gid=1625408792. I downloaded it as a .csv file.
 
 
 # Data Exploration
@@ -31,12 +31,12 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 - years_exp_in_field: eight strings that the user can choose from
 - education: six strings that the user can choose from
 - gender: five strings that the user can choose from
-- race: forty eight strings that the user can choose from
+- race: forty-eight strings that the user can choose from
 
 ## Null and Value Count
 | Variable           | Nulls  | Unique Values |
 | ------------------ | ------ | ------------- |
-| Timestamp          | 0      | 0             |
+| timestamp          | 0      | 0             |
 | age                | 0      | 0             |
 | industry           | 73     | 1,100         |
 | job_title          | 0      | 13,068        |
@@ -56,8 +56,10 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 | race               | 173    | 49            |
 
 ## Variable Handling
-- Timestamp: not relevent OMIT
-- industry: has 1,101 unique values, remove values that are less than ten percent of total, consolidate remaining into 16 values
+- timestamp: not relevant OMIT
+- industry:   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. has 1,101 unique values, remove values that are less than ten percent of all records  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. consolidate the remaining into 16 values to make plotting manageable
 - job_title: has too many unique values to be useful OMIT
 - job_title_info: has too many null values to be useful OMIT
 - annual_salary: use as is
@@ -72,23 +74,23 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 - years_exp_in_field:  use as is
 - education:  use as is
 - gender:  use as is
-- race: has forty eight unique values, many of them are similar, can be consolidated into six values
+- race: has forty-eight unique values, many of which are similar, and can be consolidated into six values
 
 # Data Cleaning
 - Remove leading and trailing spaces.
 - Remove duplicate records.
-- Remove null values in industry, education, gender and race vaiables.
+- Remove null values in industry, education, gender, and race variables.
 - Change strings to upper case.
 - Remove punctuation marks.
-- Change datatype of annual_salary to integer.
+- Change the datatype of annual_salary to integer.
 
 ## Filtering
 Age  
 - The age for earning an annual salary can be assumed to apply only to adults, so remove records with the string "under 18."
-- Many workers aged sixty five and older do not work a 40 hour work week which will skew the results, so remove records with the string "65 and over."
+- Many workers aged sixty-five and older do not work a 40-hour work week, which will skew the results, so remove records with the string "65 and over."
 
 Annual salary  
-- Assumming that a work week is at least 40 hours and that fact that the national minimum wage is $7; the minimum annual_salary will be  $7 X 40 hours X 52 weeks = $14,560.
+- Assuming that a work week is at least 40 hours and the national minimum wage is $7, the minimum annual_salary will be  $7 X 40 hours X 52 weeks = $14,560.
 - Annual salaries above one million will skew the results, so remove those records.
 
 Currency
@@ -96,18 +98,18 @@ Currency
 - Remove currencies present in less than ten percent of total records.
 
 Education 
-- Change string "some college" to "high school."
-- Change string "college education" to "bachelors degree."
+- Change the string "some college" to "high school."
+- Change the string "college education" to "bachelor's degree."
 
 Gender 
 - Remove records with strings "Other or prefer not to answer" and "Prefer not to answer."
 
 Race 
-- Remove records with string "another option not listed here."
+- Remove records with the string "another option not listed here."
 
 
 ## New Variables
-- For a meaningful comparison, records with a currency other than U.S. dollars must be converted to U.S. dollars. The name of the new variable will be annual_salary_USD. These are the exchange rates used:
+- Records with a currency other than U.S. dollars must be converted to U.S. dollars for a meaningful comparison. The name of the new variable will be annual_salary_USD. These are the exchange rates used:
 
 | Country       | Exchange rate in U.S. dollars |
 | ------------- | ----------------------------- |
@@ -115,9 +117,3 @@ Race
 | Canada        | 1.35                          |
 | Europe        | 1.08                          |
 | Great Britain | 1.26                          |
-
-
-Results: There majority of users are female and non-binary; in fact, 3.9 times more than male. Minority races are 16.9% of all users. (did after nulls and na's removed)
-Conclusion: we can see from the tables that how many hours I slept the previous night does not significantly predict the amount of steps I take the next day.
-
-![image](https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/95962147-e3f0-4f4c-aa77-52a1fe48153f)
