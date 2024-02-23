@@ -5,7 +5,9 @@ Using the data from a table of salary survey data, we will find the industries t
 - What are the average salaries for each race by industry
 - What are the average salaries for each race with a college education by industry
 
-Note: the definition of a minority in this presentation is not male and white.
+Notes:
+1. The definition of a minority in this presentation is not male and white.
+2. Plots made in Tableau.
 
 # Baseline Data
 <img width="900" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/fc122bbe-8af0-4c19-8452-e4828a9ef2ba">
