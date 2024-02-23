@@ -7,20 +7,16 @@ Using the data from a table of salary survy data, we will find the industries th
 
 Note: the definition of a minority in this presentation is anyone who in not male and white.
 
-# Introduction
-Lets look at some baseline data: <br><br>
-|  |
-| ------------ |
-| <img width="558" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/fc122bbe-8af0-4c19-8452-e4828a9ef2ba"> |
-| The IT, education and non-profit industries have the most respondents. |
-
-<br><br>
+# Baseline Data
+<img width="558" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/fc122bbe-8af0-4c19-8452-e4828a9ef2ba">
 
 <img width="600" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/2f25eaac-11c0-4edd-b66d-d171e37282b8"><br>  
-Maybe you are not surprised to see that 
 
 # Analysis
 ## Gender
 <img width="600" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/061d8a2b-66c6-467d-95a2-58013fddac11">
+
 <br><br><br>
 <img width="600" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/3bbaa029-2a55-496c-b25c-71f31b246835">
+<br>
+The average salary for males is $114,714, $88,539 for females, and $76,670 for non-binary. Is the average for non-binary the lowest because they are younger than the other genders?
