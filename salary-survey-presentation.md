@@ -24,7 +24,7 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <br><br><br>
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/3bbaa029-2a55-496c-b25c-71f31b246835">
 <br>
-- The average salary for males is $114,714, $88,539 for females, and $76,670 for non-binaries. 
+- The average salary with a four-year college degree is $113,326 for males, $84,145 for females, and $77,614 for non-binaries. 
 - Salaries for males are highest, followed by females and lasty by non-binaries. This evident in all the industries. 
 - An interesting question that I could not answer is "are the salaries for non-binary the lowest because they are younger than the other genders?"
 
