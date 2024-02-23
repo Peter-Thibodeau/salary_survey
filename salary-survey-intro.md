@@ -15,15 +15,15 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 # Data Exploration
 ## Descriptions of Variables:
 - Timestamp: a unique string automatically assigned to each new record
-- age: seven strings that the user can choose from for an age bracket
+- age: seven strings that the user can choose from for age bracket
 - industry: a string entered by the user
 - job_title: a string entered by the user
 - job_title_info: a string entered by the user
 - annual_salary: a numeral entered by the user, dollar sign and comma added automatically, no decimals
 - additional: a string entered by the user for including a note about annaul_salary
-- currency: seventeen strings that the user can choose from to 
-- other_info: a string entered by the user
-- income_context: a string entered by the user
+- currency: seventeen strings that the user can choose from 
+- other_info: a string entered by the user for including a note about currency
+- income_context: a string entered by the user for including additional information about themselves
 - country: a string entered by the user
 - state: a string entered by the user
 - city: a string entered by the user
@@ -34,7 +34,6 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 - race: forty eight strings that the user can choose from
 
 ## Nulls and NA's For Each Variable:
-Variable	Nulls
 Timestamp	0
 age	0
 industry	73
