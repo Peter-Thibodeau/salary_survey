@@ -24,9 +24,8 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <br><br><br>
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/3bbaa029-2a55-496c-b25c-71f31b246835">
 <br>
-- The average salary with a four-year college degree is $113,326 for males, $84,145 for females, and $77,614 for non-binaries. 
-- Salaries for males are highest, followed by females and lasty by non-binaries. This evident in all the industries. 
-- An interesting question that I could not answer is "are the salaries for non-binary the lowest because they are younger than the other genders?"
+- The average salary with a four-year college degree is $113,326 for males, $84,145 for females, and $77,614 for non-binaries.
+- Salaries in the computer and tech industry for non-binaries is higher than for females; this is the only industry where that is true.
 
 ## Race
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/998b424f-637b-4a72-a579-d7eaba588b01">
@@ -37,6 +36,9 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
 <br>
-Whites are not the highest paid in any industry.
+- Whites are not the highest paid in any industry.
+- In nine industries, "Asian or Asian Americans" or "Middle Eastern or Northern African" are the highest paid.
+- Native Americans are the highest paid in the utilities and telecommunications industry while they are the lowest in many other industries.
+- 
 
 
