@@ -1,11 +1,11 @@
 # Welcome
-Using the data from a table of salary survy data, we will find the industries that are most welcoming to minorities by answering the following questions:   
+Using the data from a table of salary survey data, we will find the industries that are most welcoming to minorities by answering the following questions:   
 - What are the average salaries for each gender by industry
 - What are the average salaries for each gender with a college education by industry
 - What are the average salaries for each race by industry
 - What are the average salaries for each race with a college education by industry
 
-Note: the definition of a minority in this presentation is anyone who in not male and white.
+Note: the definition of a minority in this presentation is not male and white.
 
 # Baseline Data
 <img width="900" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/fc122bbe-8af0-4c19-8452-e4828a9ef2ba">
@@ -18,14 +18,14 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/d8cec2a9-f229-4acb-92bb-5c8de0f060b4">
 
 - The average salary for males is $114,714, $88,539 for females, and $76,670 for non-binaries. 
-- Salaries for males are highest, followed by females and lasty by non-binaries. This evident in all the industries. 
-- An interesting question that I could not answer is "are the salaries for non-binary the lowest because they are younger than the other genders?"
+- Salaries for males are highest, followed by females and last by non-binaries. This is evident in all industries. 
+- An interesting question that I could not answer is, "Are the salaries for non-binary the lowest because they are younger than the other genders?"
 
 <br><br><br>
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/3bbaa029-2a55-496c-b25c-71f31b246835">
 <br>
 - The average salary with a four-year college degree is $113,326 for males, $84,145 for females, and $77,614 for non-binaries.
-- Salaries in the computer and tech industry for non-binaries is higher than for females; this is the only industry where that is true.
+- The computer and tech industry salaries for non-binaries are higher than for females; this is the only industry where that is true.
 
 ## Race
 ### For All Education Levels
@@ -40,8 +40,8 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 
 - Whites are not the highest paid in any industry.
 - In nine industries, "Asian or Asian Americans" or "Middle Eastern or Northern African" are the highest paid.
-- Native Americans are the highest paid in the utilities and telecommunications industry while they are the lowest in many other industries.
-- The salaires for all races is nearly equal in the government and education categories, probably due to strong adherance to equal opportunity rules.
+- Native Americans are the highest paid in the utilities and telecommunications industry and the lowest in many other industries.
+- The salaries for all races are nearly equal in the government and education categories, probably due to strong adherence to equal opportunity rules.
 
 ### For College Educated
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/dc161200-d7cf-4e8a-b847-710e67973b66">
@@ -53,13 +53,13 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/6153491d-27d6-4870-8871-d4048cc3fd28">
 <br><br>
 
-- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital", retail, and "transport or logistic" industries.
-- The salaires for all races is nearly equal again in the government and education industries, probably due to strong adherance to equal opportunity rules.
+- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries.
+- The salaries for all races are nearly equal again in the government and education industries, probably due to strong adherence to equal opportunity rules.
 
 # Conclusion
-Females and non-binaries earn less than males in all industries; and having a higher education does not change this. 
-<br>
-Whites do not earn more than any other race in any industry. Government jobs are the best industry to find equal pay among males and females but not non-binaries. Government and education jobs are the best industries to find equal pay among races.
+Females and non-binaries earn less than males in all industries, and having a higher education does not change this. 
+<br><br>
+Whites do not earn more than any other race in any industry. Government jobs are the best place for equality for males and females, but not non-binaries. Government and education jobs are the best industries to find equal pay for all races.
 
 
 
