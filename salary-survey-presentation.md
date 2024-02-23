@@ -28,6 +28,7 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 - Salaries in the computer and tech industry for non-binaries is higher than for females; this is the only industry where that is true.
 
 ## Race
+### For All Education Levels
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/998b424f-637b-4a72-a579-d7eaba588b01">
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/7b774818-d2a5-4a96-a69f-b779a6a5d914">
@@ -36,6 +37,17 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
 <br><br>
+
+### For College Educated
+<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/dc161200-d7cf-4e8a-b847-710e67973b66">
+<br><br><br>
+<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/cdf633f6-a72c-44ed-9424-84e1d6628a25">
+<br><br><br>
+<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/b2e03a7b-16c9-41ae-9d7f-5c3eb371cd38">
+<br><br><br>
+<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/6153491d-27d6-4870-8871-d4048cc3fd28">
+
+
 
 - Whites are not the highest paid in any industry.
 - In nine industries, "Asian or Asian Americans" or "Middle Eastern or Northern African" are the highest paid.
