@@ -37,21 +37,21 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
 <br><br>
-
-### For College Educated
-<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/dc161200-d7cf-4e8a-b847-710e67973b66">
-<br><br><br>
-<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/cdf633f6-a72c-44ed-9424-84e1d6628a25">
-<br><br><br>
-<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/b2e03a7b-16c9-41ae-9d7f-5c3eb371cd38">
-<br><br><br>
-<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/6153491d-27d6-4870-8871-d4048cc3fd28">
-
-
-
 - Whites are not the highest paid in any industry.
 - In nine industries, "Asian or Asian Americans" or "Middle Eastern or Northern African" are the highest paid.
 - Native Americans are the highest paid in the utilities and telecommunications industry while they are the lowest in many other industries.
 - The is parity among races in the government and education categories, probably due to strong adherance to equal opportunity rules.
+
+### For College Educated
+<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/dc161200-d7cf-4e8a-b847-710e67973b66">
+<br><br><br>
+<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/cdf633f6-a72c-44ed-9424-84e1d6628a25">
+<br><br><br>
+<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/b2e03a7b-16c9-41ae-9d7f-5c3eb371cd38">
+<br><br><br>
+<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/6153491d-27d6-4870-8871-d4048cc3fd28">
+
+
+
 
 
