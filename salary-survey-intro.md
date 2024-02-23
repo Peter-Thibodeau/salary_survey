@@ -81,37 +81,40 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 - Change strings to upper case.
 - Remove punctuation marks.
 - Change datatype of annual_salary to integer.
-- Replace education string "COLLEGE EDUCATION" with "BACHELORS DEGREE."
 
 ## Filtering
-√- Age
--- The age for earning an annual salary can be assumed to apply only to adults. The age bracket for under 18 will be removed.
--- Many workers aged sixty five and older do not work a 40 hour workweek which will skew the results, so the 65 and over age bracket will be removed.
+Age  
+- The age for earning an annual salary can be assumed to apply only to adults, so remove records with the string "under 18."
+- Many workers aged sixty five and older do not work a 40 hour work week which will skew the results, so remove records with the string "65 and over."
 
-√- Industry has over one thousand unique values and has to be grouped so that plots can be produced. This number will be pared down to fifteen
+Annual salary  
+- Assumming that a work week is at least 40 hours and that fact that the national minimum wage is $7; the minimum annual_salary will be  $7 X 40 hours X 52 weeks = $14,560.
+- Annual salaries above one million will skew the results, so remove those records.
 
-√ - Annual salary
--- The national minimum wage is $7.
--- An annual salary can be assumbed to be for a minimum of a 40 hour workweek.
--- $7 X 40 hours X 52 weeks = $14,560 minimum annual_salary
+Currency
+- Remove the string "other."
+- Remove currencies present in less than ten percent of total records.
 
-√ -- remove values above one million in annual_salary to prevent skewing of data
+Education 
+- Change string "some college" to "high school."
+- Change string "college education" to "bachelors degree."
 
-√-- remove other from currency
+Gender 
+- Remove records with strings "Other or prefer not to answer" and "Prefer not to answer."
 
-√- education change some college to high school
-
-√ - Gender values "Other or prefer not to answer" and "Prefer not to answer" are irrelevant and will be removed.
-
- √- Race has fourty eight values the user could choose from. One value "another option not listed here," will skew the results, so those records will be removed.
+Race 
+- Remove records with string "another option not listed here."
 
 
 ## New Variables
-- For records with a currency other than U.S. dollars, the annaul_salary must be converted to U.S. dollars. The name of the variable will be annual_salary_USD. These are the exchange rates used:
-AUD/NZD 1.53
-CAD 1.35
-EUR 1.08
-GBP 1.26
+- For a meaningful comparison, records with a currency other than U.S. dollars must be converted to U.S. dollars. The name of the new variable will be annual_salary_USD. These are the exchange rates used:
+
+| Country       | Exchange rate in U.S. dollars |
+| ------------- | ----------------------------- |
+| Austrailia    | 1.53                          |
+| Canada        | 1.35                          |
+| Europe        | 1.08                          |
+| Great Britain | 1.26                          |
 
 
 Results: There majority of users are female and non-binary; in fact, 3.9 times more than male. Minority races are 16.9% of all users. (did after nulls and na's removed)
