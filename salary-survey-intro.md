@@ -14,7 +14,7 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 
 # Data Exploration
 ## Descriptions of Variables:
-- Timestamp: a unique string automatically assigned to each new record
+- timestamp: a unique string automatically assigned to each new record
 - age: seven strings that the user can choose from for age bracket
 - industry: a string entered by the user
 - job_title: a string entered by the user
@@ -33,46 +33,27 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 - gender: five strings that the user can choose from
 - race: forty eight strings that the user can choose from
 
-## Nulls and NA's For Each Variable:
-Timestamp	0
-age	0
-industry	73
-job_title	0
-job_title_info	0
-annual_salary	0
-additional	7,280
-currency	0
-other_info	27,805
-income_context	0
-country	0
-state	5,004
-city	0
-years_exp	0
-years_exp_in_field	0
-education	217
-gender	169
-race	173
-
-## Unique Values For Each Variable (that are not numeric or have a fixed number of values for the user to choose from):
-Variable	Unique Values
-Timestamp	0
-age	0
-industry	1,100
-job_title	13,068
-job_title_info	20,776
-annual_salary	3,652
-additional	847
-currency	11
-other_info	109
-income_context	2,851
-country	306
-state	132
-city	4,460
-years_exp	8
-years_exp_in_field	8
-education	6
-gender	5
-race	49
+## Variable Counts
+| Variable           | Nulls  | Unique Values |
+| ------------------ | ------ | ------------- |
+| Timestamp          | 0      | 0             |
+| age                | 0      | 0             |
+| industry           | 73     | 1,100         |
+| job_title          | 0      | 13,068        |
+| job_title_info     | 0      | 20,776        |
+| annual_salary      | 0      | 3,652         |
+| additional         | 7,280  | 847           |
+| currency           | 0      | 11            |
+| other_info         | 27,805 | 109           |
+| income_context     | 0      | 2,851         |
+| country            | 0      | 306           |
+| state              | 5,004  | 132           |
+| city               | 0      | 4,460         |
+| years_exp          | 0      | 8             |
+| years_exp_in_field | 0      | 8             |
+| education          | 217    | 6             |
+| gender             | 169    | 5             |
+| race               | 173    | 49            |
 
 ## Observations
 - Timestamp: not relevent OMIT
