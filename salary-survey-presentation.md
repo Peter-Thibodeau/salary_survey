@@ -27,5 +27,6 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 ## Race
 <img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/998b424f-637b-4a72-a579-d7eaba588b01">
 <img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/7b774818-d2a5-4a96-a69f-b779a6a5d914">
+<img width="540" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/aa1901e1-edd9-4543-8212-35f25430f8f6">
 
 
