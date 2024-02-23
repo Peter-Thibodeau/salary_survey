@@ -33,7 +33,7 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 - gender: five strings that the user can choose from
 - race: forty eight strings that the user can choose from
 
-## Variable Counts
+## Null and Value Count
 | Variable           | Nulls  | Unique Values |
 | ------------------ | ------ | ------------- |
 | Timestamp          | 0      | 0             |
@@ -55,39 +55,33 @@ The data is hosted on Google sheets at: https://docs.google.com/spreadsheets/d/1
 | gender             | 169    | 5             |
 | race               | 173    | 49            |
 
-## Observations
+## Variable Handling
 - Timestamp: not relevent OMIT
-- industry: has _____ unique values, so similar values will be grouped
+- industry: has 1,101 unique values, remove values that are less than ten percent of total, consolidate remaining into 16 values
 - job_title: has too many unique values to be useful OMIT
 - job_title_info: has too many null values to be useful OMIT
-- annual_salary: is relevent and useable as is
+- annual_salary: use as is
 - additional: has too many null values to be useful OMIT
-- currency: is relevent and useable as is
+- currency: use as is
 - other_info: has too many null values to be useful OMIT
 - income_context: has too many null values to be useful OMIT
-- country: is not relevent, only currency is OMIT
-- state: has too many unique values to be useful OMIT
-- city: has no value without state OMIT
-- years_exp: is relevent and useable as is
-- years_exp_in_field: is relevent and useable as is
-- education: a string of six levels of education the user can choose from
-- gender: a string of five genders the user can choose from
-- race: a string of fourty eight races the user can choose from, so similar values will be grouped
-
-## Relevent Record Counts (did after nulls and na's removed)
-- There are 5,461 records for males.
-- There are 21,346 records for gender value woman
-- There are 743 records for gender value non-binary.
-- There are 4,694 records for race other than White.
+- country: location will not be used in the analysis OMIT
+- state: location will not be used in the analysis OMIT
+- city: location will not be used in the analysis OMIT
+- years_exp: use as is
+- years_exp_in_field:  use as is
+- education:  use as is
+- gender:  use as is
+- race: has forty eight unique values, many of them are similar, can be consolidated into six values
 
 # Data Cleaning
-√- Leading and trailing spaces removed from the industry variable.
-√- Duplicate records removed.
-√- Records with null values found in the industry, education, gender and race vaiables removed.
-√- All alphabetcal characters in strings converted to upper case.
-√- Punctuation marks removed from all variables
-√- Data type of annual_salary changed to integer
-√- Replace the user selected string "COLLEGE EDUCATION" with "BACHELORS DEGREE" to differentiate it from "MASTER'S DEGREE," and "PHD."
+- Remove leading and trailing spaces.
+- Remove duplicate records.
+- Remove null values in industry, education, gender and race vaiables.
+- Change strings to upper case.
+- Remove punctuation marks.
+- Change datatype of annual_salary to integer.
+- Replace education string "COLLEGE EDUCATION" with "BACHELORS DEGREE."
 
 ## Filtering
 √- Age
