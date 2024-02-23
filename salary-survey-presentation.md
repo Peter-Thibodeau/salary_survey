@@ -32,5 +32,5 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/aa1901e1-edd9-4543-8212-35f25430f8f6">
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
-
+djfldj
 
