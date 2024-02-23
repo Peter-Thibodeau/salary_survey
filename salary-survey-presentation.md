@@ -35,10 +35,11 @@ Note: the definition of a minority in this presentation is anyone who in not mal
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/aa1901e1-edd9-4543-8212-35f25430f8f6">
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
-<br>
+<br><br>
+
 - Whites are not the highest paid in any industry.
 - In nine industries, "Asian or Asian Americans" or "Middle Eastern or Northern African" are the highest paid.
 - Native Americans are the highest paid in the utilities and telecommunications industry while they are the lowest in many other industries.
-- 
+- The is parity among races in the government and education categories, probably due to strong adherance to equal opportunity rules.
 
 
