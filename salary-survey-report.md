@@ -13,7 +13,7 @@ The data is hosted on Google Sheets at: https://docs.google.com/spreadsheets/d/1
 
 
 # Data Exploration
-## Descriptions of Variables
+## Variable Descriptions
 | Variable           | Datatype | Description |
 | :---               | :---     | :--- |
 | timestamp          | datetime | a unique string automatically assigned to each new record
@@ -36,8 +36,8 @@ The data is hosted on Google Sheets at: https://docs.google.com/spreadsheets/d/1
 | race               | string   |  forty-eight strings that the user can choose from
 
 ## Nulls and Unique Values
-| Variable           | Datatype | Description  |
-|--------------------|----------|--------------|
+| Variable           | Null     | Unique  |
+| :---| :--- | :--- |
 | timestamp          | 0        | 0            |
 | age                | 0        | 0            |
 | industry           | 73       | 1,101        |
@@ -58,25 +58,47 @@ The data is hosted on Google Sheets at: https://docs.google.com/spreadsheets/d/1
 | race               | 173      | 49           |
 
 ## Variable Handling
-timestamp: not relevant OMIT
 industry:   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. has 1,101 unique values, remove values that are less than ten percent of all records  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. consolidate the remaining into 16 values to make plotting manageable
-job_title: has too many unique values to be useful OMIT
-job_title_info: has too many null values to be useful OMIT
-annual_salary: use as is
-additional: has too many null values to be useful OMIT
-currency: use as is
-other_info: has too many null values to be useful OMIT
-income_context: has too many null values to be useful OMIT
-country: location will not be used in the analysis OMIT
-state: location will not be used in the analysis OMIT
-city: location will not be used in the analysis OMIT
-years_exp: use as is
-years_exp_in_field:  use as is
-education:  use as is
-gender:  use as is
-race: has forty-eight unique values, many of which are similar, and can be consolidated into six values
+1. has 1,101 unique values, remove values that are less than ten percent of all records  
+2. consolidate the remaining into 16 values to make plotting manageable
+   
+| Variable           | Keep or Omit                              | OMIT|
+| :--- | :--- | :--- |
+| timestamp          | not relevant                             |
+| age                | 
+| industry
+| job_title          | has too many unique values to be useful   | OMIT|
+| job_title_info     | has too many null values to be useful     | OMIT|
+| annual_salary      | use as is                                 ||
+| additional         | has too many null values to be useful     | OMIT|
+| currency           | use as is                                 ||
+| other_info         | has too many null values to be useful     | OMIT|
+| income_context     | has too many null values to be useful     | OMIT|
+| country            | location will not be used in the analysis | OMIT|
+| state              | location will not be used in the analysis | OMIT|
+| city               | location will not be used in the analysis | OMIT|
+| years_exp          | use as is                                 ||
+| years_exp_in_field | use as is                                 ||
+| education          | use as is                                 ||
+| gender             | use as is                                 ||
+| race               | has forty-eight unique values             ||
+
+timestamp,not relevant,OMIT
+job_title,has too many unique values to be useful,OMIT
+job_title_info,has too many null values to be useful,OMIT
+annual_salary,use as is
+additional,has too many null values to be useful,OMIT
+currency,use as is
+other_info,has too many null values to be useful,OMIT
+income_context,has too many null values to be useful,OMIT
+country,location will not be used in the analysis,OMIT
+state,location will not be used in the analysis,OMIT
+city,location will not be used in the analysis,OMIT
+years_exp,use as is
+years_exp_in_field, use as is
+education, use as is
+gender, use as is
+race,has forty-eight unique values, many of which are similar, and can be consolidated into six values
 
 # Data Cleaning
 Remove leading and trailing spaces.
