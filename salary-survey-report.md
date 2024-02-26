@@ -80,43 +80,43 @@ The data is hosted on Google Sheets at: https://docs.google.com/spreadsheets/d/1
 | race               | consolidate forty eight values to six     ||
 
 # Data Cleaning
-Remove leading and trailing spaces.
-Remove duplicate records.
-Remove null values in industry, education, gender, and race variables.
-Change strings to upper case.
-Remove punctuation marks.
-Change the datatype of annual_salary to integer.
+- Remove leading and trailing spaces.
+- Remove duplicate records.
+- Remove null values in industry, education, gender, and race variables.
+- Change strings to upper case.
+- Remove punctuation marks.
+- Change the datatype of annual_salary to integer.
 
 ## Filtering
-Age  
+**Age**  
 The age for earning an annual salary can be assumed to apply only to adults, so remove records with the string "under 18."
 Many workers aged sixty-five and older do not work a 40-hour work week, which will skew the results, so remove records with the string "65 and over."
 
-Annual salary  
+**Annual salary**  
 Assuming that a work week is at least 40 hours and the national minimum wage is $7, the minimum annual_salary will be  $7 X 40 hours X 52 weeks = $14,560.
 Annual salaries above one million will skew the results, so remove those records.
 
-Currency
+**Currency**
 Remove the string "other."
 Remove currencies present in less than ten percent of total records.
 
-Education 
+**Education**  
 Change the string "some college" to "high school."
 Change the string "college education" to "bachelor's degree."
 
-Gender 
+**Gender**   
 Remove records with strings "Other or prefer not to answer" and "Prefer not to answer."
 
-Race 
+**Race**   
 Remove records with the string "another option not listed here."
 
 
 ## New Variables
-Records with a currency other than U.S. dollars must be converted to U.S. dollars for a meaningful comparison. The name of the new variable will be annual_salary_USD. These are the exchange rates used:
+Records with a currency other than U.S. dollars must be converted to U.S. dollars for a meaningful comparison. The name of the new variable will be annual_salary_USD and it's datatype will be decimal. These are the exchange rates used:
 
-Country       Exchange rate in U.S. dollars |
-------------| | ----------------------------| |
-| Austrailia    | 1.53                          |
-| Canada        | 1.35                          |
-| Europe        | 1.08                          |
-| Great Britain | 1.26                          |
+| Country       | U.S. Dollars |
+|---------------|--------------|
+| Australia     | 1.53         |
+| Canada        | 1.35         |
+| Europe        | 1.08         |
+| Great Britain | 1.26         |
