@@ -6,7 +6,7 @@ This is a practice case study. I intend to find the industries that are most wel
 - What are the average salaries for each race with a college education by industry 
 
 
-# The Data
+# Data Source
 I am using data from a web app on the askamanager.org website (https://www.askamanager.org/ 2022/04/how-much-money-do-you-make-5.html). This form allows users to anonymously enter their demographic and salary info and then see a table comparing their data to other users. The table contains 28,015 records, allowing an analysis of salaries based on industry, years of experience, and personal demographics.
 
 The data is hosted on Google Sheets at: https://docs.google.com/spreadsheets/d/1IPS5dBSGtwYVbjsfbaMCYIWnOuRmJcbequohNxCyGVw/edit?resourcekey#gid=1625408792. I downloaded it as a .csv file.
