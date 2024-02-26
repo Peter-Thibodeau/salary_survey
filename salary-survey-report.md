@@ -107,7 +107,7 @@ Change the string "some college" to "high school."
 Change the string "college education" to "bachelor's degree."
 
 **Gender**   
-Remove records with strings "Other or prefer not to answer" and "Prefer not to answer."
+Remove records with the strings "Other or prefer not to answer" and "Prefer not to answer."
 
 **Race**   
 Remove records with the string "another option not listed here."
