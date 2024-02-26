@@ -1,1 +1,1 @@
-The salary survey is a practice data analysis I did to strengthen my skillset. The report contains my analysis's data source, description, and cleaning steps.
+The salary survey is a practice data analysis I did to strengthen my skillset. The report file covers the data source, data description, and cleaning steps I took. The presentation file includes plots I made in Tableau.
