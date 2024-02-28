@@ -52,4 +52,5 @@ Note: The users in the data are considered minorities if they are not white male
 Salaries for minorities are best in the government and education industries, probably due to strong adherence to equal opportunity laws.
 
 # Notes
-2. Plots made in Tableau.
+All charts made with Tableau and can be found here: https://public.tableau.com/app/profile/peter.thibodeau/vizzes
+
