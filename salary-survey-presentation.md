@@ -7,7 +7,7 @@ To find the industries that are most welcoming to minorities, I will answering t
 
 Note: The users in the data are considered minorities if they are not white males.
 
-## Gender
+
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/d8cec2a9-f229-4acb-92bb-5c8de0f060b4">
 
 
@@ -16,8 +16,8 @@ Note: The users in the data are considered minorities if they are not white male
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/3bbaa029-2a55-496c-b25c-71f31b246835">
 <br>
 
-## Race
-### For All Education Levels
+
+
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/998b424f-637b-4a72-a579-d7eaba588b01">
 <br><br><br>
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/7b774818-d2a5-4a96-a69f-b779a6a5d914">
