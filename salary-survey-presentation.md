@@ -12,10 +12,20 @@ Note: The users in the data are considered minorities if they are not white male
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/507bf89b-2b50-428c-ad0e-32dd1698f0d0">
 <br><br>
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/65806436-9547-4f77-a6fb-0faaf32a12da">
+<br><br>
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/8f408506-df03-42dd-bd97-6458f6968c01">
-<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/7e9d8feb-d1b4-45ca-9aa9-f3db500f0784">
-<img width="1000" alt="image" src="">
-
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/58d89d3f-ef46-4e0c-bbcc-e7f1b5ea5438">
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/fbad5dbb-cab8-43c1-92f9-97b4a38a7fc8">
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/19d851e3-4b2b-485c-9576-3afaa010e8e6">
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/d0b34375-364b-4af2-b943-8bd1681e5b75">
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/e07b49c8-0907-4bfe-93cd-7dbe42bf6ecf">
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/9c7b3afa-2768-4a92-b6cb-62d17c793ab1">
 
 # Observations
 ## Gender
