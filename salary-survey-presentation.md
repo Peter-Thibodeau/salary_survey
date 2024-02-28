@@ -8,7 +8,9 @@ To find the industries that are most welcoming to minorities, I will answering t
 Note: The users in the data are considered minorities if they are not white males.
 
 
-# Analysis
+Observations
+Recommendations
+Note
 ## Gender
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/d8cec2a9-f229-4acb-92bb-5c8de0f060b4">
 
@@ -49,11 +51,12 @@ Note: The users in the data are considered minorities if they are not white male
 - Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries.
 - The salaries for all races are nearly equal again in the government and education industries, probably due to strong adherence to equal opportunity rules.
 
+# Observtions
+- Salaries for males are highest in all industries, followed by females and last by non-binaries.
+- An interesting question is, "Are the salaries for non-binary the lowest because they are younger than the other genders?"
+- Salaries for whites are not the highest in any industry.
+
 # Conclusion
-Females and non-binaries earn less than males in all industries, and having a higher education does not change this. 
-<br><br>
-Whites do not earn more than any other race in any industry. Government jobs are the best place for equality for males and females, but not non-binaries. Government and education jobs are the best industries to find equal pay for all races.
+Government jobs are the best place for females to earn as much as males, this does not hold true for non-binaries. Government and education jobs are the best industries to find equal pay for all races.
 
 2. Plots made in Tableau.
-- An interesting question that I could not answer is, "Are the salaries for non-binary the lowest because they are younger than the other genders?"
-- Salaries for males are highest, followed by females and last by non-binaries. This is evident in all industries. 
