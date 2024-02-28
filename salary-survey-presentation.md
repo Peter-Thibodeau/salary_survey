@@ -12,30 +12,9 @@ Note: The users in the data are considered minorities if they are not white male
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/507bf89b-2b50-428c-ad0e-32dd1698f0d0">
 <br><br>
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/65806436-9547-4f77-a6fb-0faaf32a12da">
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/8f408506-df03-42dd-bd97-6458f6968c01">
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/7e9d8feb-d1b4-45ca-9aa9-f3db500f0784">
 <img width="1000" alt="image" src="">
-<img width="1000" alt="image" src="">
-<img width="1000" alt="image" src="">
-
-![image](https://github.com/peter-thibodeau/salary_survey/assets/158618486/65806436-9547-4f77-a6fb-0faaf32a12da)
-
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/998b424f-637b-4a72-a579-d7eaba588b01">
-<br><br><br>
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/7b774818-d2a5-4a96-a69f-b779a6a5d914">
-<br><br><br>
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/aa1901e1-edd9-4543-8212-35f25430f8f6">
-<br><br><br>
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
-<br><br>
-
-### For College Educated
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/dc161200-d7cf-4e8a-b847-710e67973b66">
-<br><br><br>
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/cdf633f6-a72c-44ed-9424-84e1d6628a25">
-<br><br><br>
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/b2e03a7b-16c9-41ae-9d7f-5c3eb371cd38">
-<br><br><br>
-<img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/6153491d-27d6-4870-8871-d4048cc3fd28">
-<br><br>
 
 
 # Observations
