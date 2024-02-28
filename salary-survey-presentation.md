@@ -1,4 +1,4 @@
-# What Industries Have Pay Equity for Minorities?
+# What industries offer the best pay for minorities?
 To find the industries that are most welcoming to minorities, I will answering the following questions:   
 1. What are the average salaries for each gender by industry
 2. What are the average salaries for each gender with a college education by industry
