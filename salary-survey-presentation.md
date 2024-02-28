@@ -1,27 +1,18 @@
-# Welcome
-Using the data from a table of salary survey data, we will find the industries that are most welcoming to minorities by answering the following questions:   
+# What Industries Have Pay Equity for Minorities?
+To find the industries that are most welcoming to minorities, I will answering the following questions:   
 - What are the average salaries for each gender by industry
 - What are the average salaries for each gender with a college education by industry
 - What are the average salaries for each race by industry
 - What are the average salaries for each race with a college education by industry
 
-Notes:
-1. The definition of a minority in this presentation is not male and white.
-2. Plots made in Tableau.
+Note: The users in the data are considered minorities if they are not white males.
 
-# Baseline Data
-<img width="900" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/fc122bbe-8af0-4c19-8452-e4828a9ef2ba">
-
-<img width="900" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/2f25eaac-11c0-4edd-b66d-d171e37282b8"><br>  
-<br>
 
 # Analysis
 ## Gender
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/d8cec2a9-f229-4acb-92bb-5c8de0f060b4">
 
-- The average salary for males is $114,714, $88,539 for females, and $76,670 for non-binaries. 
-- Salaries for males are highest, followed by females and last by non-binaries. This is evident in all industries. 
-- An interesting question that I could not answer is, "Are the salaries for non-binary the lowest because they are younger than the other genders?"
+
 
 <br><br><br>
 <img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/3bbaa029-2a55-496c-b25c-71f31b246835">
@@ -63,5 +54,6 @@ Females and non-binaries earn less than males in all industries, and having a hi
 <br><br>
 Whites do not earn more than any other race in any industry. Government jobs are the best place for equality for males and females, but not non-binaries. Government and education jobs are the best industries to find equal pay for all races.
 
-
-
+2. Plots made in Tableau.
+- An interesting question that I could not answer is, "Are the salaries for non-binary the lowest because they are younger than the other genders?"
+- Salaries for males are highest, followed by females and last by non-binaries. This is evident in all industries. 
