@@ -27,11 +27,6 @@ Note: The users in the data are considered minorities if they are not white male
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/eb366b60-b40e-4faf-90fd-fbf7235b374d">
 <br><br>
 
-- Whites are not the highest paid in any industry.
-- In nine industries, "Asian or Asian Americans" or "Middle Eastern or Northern African" are the highest paid.
-- Native Americans are the highest paid in the utilities and telecommunications industry and the lowest in many other industries.
-- The salaries for all races are nearly equal in the government and education categories, probably due to strong adherence to equal opportunity rules.
-
 ### For College Educated
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/dc161200-d7cf-4e8a-b847-710e67973b66">
 <br><br><br>
@@ -42,17 +37,19 @@ Note: The users in the data are considered minorities if they are not white male
 <img width="1200" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/6153491d-27d6-4870-8871-d4048cc3fd28">
 <br><br>
 
-- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries.
-- The salaries for all races are nearly equal again in the government and education industries, probably due to strong adherence to equal opportunity rules.
 
-# Observtions
-- Salaries for males are highest in all industries, followed by females and last by non-binaries.
-- An interesting question is, "Are the salaries for non-binary the lowest because they are younger than the other genders?"
-- Salaries for whites are not the highest in any industry.
-- Salaries for non-binaries are higher than for females in the computer and tech industry. Is that because non-binaries are youger?
+# Observations
+## Gender
+- Salaries for males are highest in all industries, followed by females and then non-binaries.
+- An interesting question is, "Are the salaries for non-binary low because they are usually younger than the other genders?"
+- Salaries for non-binaries are higher than for females in the computer and tech industry. Is that because non-binaries are youger than females?
+## Race
+- Whites are not the highest paid in any industry.
+- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries.
+- Native Americans are the highest paid in the utilities and telecommunications industry, but the lowest in many other industries.
 
 # Conclusion
-Government jobs are the best place for females to earn as much as males, this does not hold true for non-binaries. Government and education jobs are the best industries to find equal pay for all races.
+Salaries for minorities are best in the government and education industries, probably due to strong adherence to equal opportunity laws.
 
 # Notes
 2. Plots made in Tableau.
