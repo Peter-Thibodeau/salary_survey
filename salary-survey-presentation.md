@@ -6,15 +6,10 @@ To find the industries that are most welcoming to minorities, I will answering t
 4. What are the average salaries for each race with a college education by industry
 
 Note: The users in the data are considered minorities if they are not white males.
-
-
-<img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/d8cec2a9-f229-4acb-92bb-5c8de0f060b4">
-
-
-
-<br><br><br>
-<img width="1000" alt="image" src="https://github.com/Peter-Thibodeau/salary_survey/assets/158618486/3bbaa029-2a55-496c-b25c-71f31b246835">
-<br>
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/c03e6f2a-3f2d-4974-ad35-cd767fb1d0b4">
+<br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/507bf89b-2b50-428c-ad0e-32dd1698f0d0">
 
 
 
@@ -40,13 +35,13 @@ Note: The users in the data are considered minorities if they are not white male
 
 # Observations
 ## Gender
-- Salaries for males are highest in all industries, followed by females and then non-binaries.
+- Salaries for males are highest in all industries, followed by females and then non-binaries. This is true whether they have a college education or not.
 - An interesting question is, "Are the salaries for non-binary low because they are usually younger than the other genders?"
 - Salaries for non-binaries are higher than for females in the computer and tech industry. Is that because non-binaries are youger than females?
 ## Race
-- Whites are not the highest paid in any industry.
-- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries.
-- Native Americans are the highest paid in the utilities and telecommunications industry, but the lowest in many other industries.
+- Whites are not the highest paid in any industry, regardless of having a college education.
+- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries, regardless of having a college education.
+- Native Americans are the highest paid in the utilities and telecommunications industry, but the lowest in many other industries, regardless of having a college education.
 
 # Conclusion
 Salaries for minorities are best in the government and education industries, probably due to strong adherence to equal opportunity laws.
