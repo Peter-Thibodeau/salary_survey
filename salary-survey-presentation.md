@@ -11,6 +11,9 @@ Note: The users in the data are considered minorities if they are not white male
 <br><br>
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/507bf89b-2b50-428c-ad0e-32dd1698f0d0">
 <br><br>
+<img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/c355fee8-5411-407d-a7d9-2ba5fd0474f4">
+
+
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/65806436-9547-4f77-a6fb-0faaf32a12da">
 <br><br>
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/8f408506-df03-42dd-bd97-6458f6968c01">
