@@ -28,7 +28,7 @@ Note: The users in the data are considered minorities if they are not white male
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/9c7b3afa-2768-4a92-b6cb-62d17c793ab1">
 
 # Observations
-- Having a college education raises minority and white male salaries by roughly the same amount.
+Having a college education raises minority and white male salaries by roughly the same amount.
 ## Gender
 - Male salaries are highest in all industries, followed by females and non-binaries.
 - An interesting question is, "Are non-binary salaries low because they are usually younger than the other genders?"
