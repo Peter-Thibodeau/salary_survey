@@ -28,17 +28,18 @@ Note: The users in the data are considered minorities if they are not white male
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/9c7b3afa-2768-4a92-b6cb-62d17c793ab1">
 
 # Observations
+- Having a college education raises minority and white male salaries by roughly the same amount.
 ## Gender
-- Male salaries are highest in all industries, followed by females and non-binaries. This is true whether they have a college education or not.
-- An interesting question is, "Are the salaries for non-binary low because they are usually younger than the other genders?"
-- Salaries for non-binaries are higher than for females in the computer and tech industry. Is that because non-binaries are younger than females?
+- Male salaries are highest in all industries, followed by females and non-binaries.
+- An interesting question is, "Are non-binary salaries low because they are usually younger than the other genders?"
+- Non-binary salaries are slightly higher than female salaries in the computer and tech industry. Is that because non-binaries are younger (and more tech-savvy) than females?
 ## Race
-- Whites are not the highest paid in any industry, regardless of having a college education.
-- Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries, regardless of having a college education.
-- Native Americans are the highest paid in the utilities and telecommunications industry but the lowest in many other industries, regardless of having a college education.
+- Whites are not the highest paid in any industry.
+- Salaries for "Asian or Asian American" and "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries.
+- Native Americans are the highest paid in the utilities and telecommunications industry but the lowest in many other industries.
 
 # Conclusion
-Salaries for minorities are best in the government and education industries, probably due to strong adherence to equal opportunity laws.
+Salaries for minorities are highest in the government and education industries, probably due to strong adherence to equal opportunity laws.
 
 # Notes
-All charts made with Tableau and can be found here: https://public.tableau.com/app/profile/peter.thibodeau/vizzes
+All charts were made with Tableau and can be found here: https://public.tableau.com/app/profile/peter.thibodeau/vizzes
