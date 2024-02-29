@@ -1,5 +1,5 @@
 # What industries offer the best pay for minorities?
-To find the industries that are most welcoming to minorities, I will answering the following questions:   
+To find the industries that are most welcoming to minorities, I will answer the following questions:   
 1. What are the average salaries for each gender by industry
 2. What are the average salaries for each gender with a college education by industry
 3. What are the average salaries for each race by industry
@@ -29,17 +29,16 @@ Note: The users in the data are considered minorities if they are not white male
 
 # Observations
 ## Gender
-- Salaries for males are highest in all industries, followed by females and then non-binaries. This is true whether they have a college education or not.
+- Male salaries are highest in all industries, followed by females and non-binaries. This is true whether they have a college education or not.
 - An interesting question is, "Are the salaries for non-binary low because they are usually younger than the other genders?"
-- Salaries for non-binaries are higher than for females in the computer and tech industry. Is that because non-binaries are youger than females?
+- Salaries for non-binaries are higher than for females in the computer and tech industry. Is that because non-binaries are younger than females?
 ## Race
 - Whites are not the highest paid in any industry, regardless of having a college education.
 - Salaries for "Middle Eastern or Northern African" are much higher in the "media and digital," retail, and "transport or logistic" industries, regardless of having a college education.
-- Native Americans are the highest paid in the utilities and telecommunications industry, but the lowest in many other industries, regardless of having a college education.
+- Native Americans are the highest paid in the utilities and telecommunications industry but the lowest in many other industries, regardless of having a college education.
 
 # Conclusion
 Salaries for minorities are best in the government and education industries, probably due to strong adherence to equal opportunity laws.
 
 # Notes
 All charts made with Tableau and can be found here: https://public.tableau.com/app/profile/peter.thibodeau/vizzes
-
