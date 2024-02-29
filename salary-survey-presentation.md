@@ -5,7 +5,7 @@ To find the industries that are most welcoming to minorities, I will answer the 
 3. What are the average salaries for each race by industry
 4. What are the average salaries for each race with a college education by industry
 
-Note: The users in the data are considered minorities if they are not white males.
+Note: People in the analysis are considered minorities if they are not white males.
 <br><br>
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/c03e6f2a-3f2d-4974-ad35-cd767fb1d0b4">
 <br><br>
