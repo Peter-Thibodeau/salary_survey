@@ -19,23 +19,23 @@ The table contains 28,014 records and 17 variables.
 | Variable           | Datatype | Description |
 | :---               | :---     | :--- |
 | timestamp          | datetime | a unique string automatically assigned to each new record
-| age                | string   | 7 strings that the user can choose from for age bracket
-| industry           | string   | entered by the user
-| job_title          | string   | entered by the user
-| job_title_info     | string   | entered by the user
+| age                | varchar   | 7 strings that the user can choose from for age bracket
+| industry           | varchar   | entered by the user
+| job_title          | varchar   | entered by the user
+| job_title_info     | varchar   | entered by the user
 | annual_salary      | integer  | entered by the user
-| additional         | string   | entered by the user for including a note about annaul_salary
-| currency           | string   | 17 strings that the user can choose from 
-| other_info         | string   | entered by the user for including a note about currency
-| income_context     | string   | entered by the user to include additional information about themselves
-| country            | string   | entered by the user
-| state              | string   | entered by the user
-| city               | string   | entered by the user
-| years_exp          | string   | 8 strings that the user can choose from
-| years_exp_in_field | string   | 8 strings that the user can choose from
-| education          | string   |  6 strings that the user can choose from
-| gender             | string   |  5 strings that the user can choose from
-| race               | string   |  48 strings that the user can choose from
+| additional         | varchar   | entered by the user for including a note about annaul_salary
+| currency           | varchar   | 17 strings that the user can choose from 
+| other_info         | varchar   | entered by the user for including a note about currency
+| income_context     | varchar   | entered by the user to include additional information about themselves
+| country            | varchar   | entered by the user
+| state              | varchar   | entered by the user
+| city               | varchar   | entered by the user
+| years_exp          | varchar   | 8 strings that the user can choose from
+| years_exp_in_field | varchar   | 8 strings that the user can choose from
+| education          | varchar   |  6 strings that the user can choose from
+| gender             | varchar   |  5 strings that the user can choose from
+| race               | varchar   |  48 strings that the user can choose from
 
 ## Nulls and Unique Values
 | Variable           | Null     | Unique  |
