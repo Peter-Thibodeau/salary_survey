@@ -1,4 +1,4 @@
--- because plotting will be done with tableau, deletions and updates were used to make permanent changes to the data
+-- because plotting will be done separately with tableau, deletions and updates were used to make permanent changes to the data
 
 -- omit uncecessary columns 
 ALTER TABLE salariesA
