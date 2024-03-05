@@ -1,4 +1,5 @@
 -- because plotting will be done separately with tableau, deletions and updates were used to make permanent changes to the data
+-- the websites where I can run queries for free do not allow regex, so I am using "like" instead.
 
 -- omit uncecessary columns 
 ALTER TABLE salariesA
