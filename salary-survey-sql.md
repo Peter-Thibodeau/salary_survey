@@ -1,3 +1,5 @@
+-- because plotting will be done with tableau, deletions and updates were used to make permanent changes to the data
+
 -- omit uncecessary columns 
 ALTER TABLE salariesA
   DROP COLUMN job_title,
