@@ -1,6 +1,6 @@
 # What industries offer the best pay for minorities?
 
-Note: People are considered minorities if they are not white males for this analysis.
+Note: for this analysis, people are considered minorities if they are not white males.
 
 <br><br>
 <img width="1000" alt="image" src="https://github.com/peter-thibodeau/salary_survey/assets/158618486/c03e6f2a-3f2d-4974-ad35-cd767fb1d0b4">
