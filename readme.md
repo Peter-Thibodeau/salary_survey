@@ -1,1 +1,1 @@
-Thhis is a practice data analysis I did to strengthen my skillset. The salary-survey-report.md file covers the source, description, and cleaning of the data. The salary-survey-presentation.md file contains plots, observations and my conclusion of the anaylsis.
+This is a practice data analysis I did to strengthen my skillset. The salary-survey-report.md file covers the source, description, and cleaning of the data. The salary-survey-presentation.md file contains plots, observations and my conclusion of the anaylsis.
